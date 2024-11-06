@@ -128,11 +128,11 @@ nav li {
 }
 
 nav li a {
-    color: rgb(8, 65, 3);
+    color: rgb(6, 0, 33);
 }
 
 nav li:hover {
-    background-color: rgb(158, 235, 158);
+    background-color: rgb(7, 216, 216);
 }
 
 .text-right{
