@@ -101,7 +101,7 @@ body {
 }
 
 .shadow {
-    box-shadow: 0 0 20px green;
+    box-shadow: 0 0 20px rgb(2, 204, 240);
     border-radius: 20px;
 }
 nav ul{
@@ -156,7 +156,7 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(4, 207, 92);
+    background-color: rgb(3, 167, 148);
 }
 .bg-azul-c {
     background-color: rgb(240, 249, 252);
@@ -165,7 +165,7 @@ a {
     background-color: orange;
 }
 .text-white {
-    color: rgb(32, 82, 1);
+    color: rgb(2, 25, 73);
 }
 .text-red {
     color: red;
