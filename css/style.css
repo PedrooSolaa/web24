@@ -347,7 +347,7 @@ h1 {
     color: rgb(1, 9, 12);
 }
 .col3 {
-    width: 33.33%;
+    width: 33.3%;
     float: left;
 }
 .col3 img {
@@ -363,7 +363,7 @@ padding: 6 px;
 #multimedia video {
     display: block;
     margin: 0 auto;
-    width: 50%;
+    width: 100;
 }
 .contra {
     float: left;
