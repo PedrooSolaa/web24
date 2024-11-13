@@ -261,6 +261,7 @@ h1 {
 .horario {
     width: 80%;
     margin: 0 auto;
+    
 }
 .lm {
     background-color: #64b4ef;
@@ -294,6 +295,10 @@ h1 {
 }
 .dias {
     color: #73b3af ;
+}
+.recreo {
+    color: rgb(20, 122, 122);
+    text-align: center;
 }
 
 
